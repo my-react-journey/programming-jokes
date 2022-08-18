@@ -1,7 +1,7 @@
 {
   "short_name": "Programming Jokes",
   "name": "Programming Jokes",
-  "description": "Programming jokes using the jokeapi",
+  "description": "Programming jokes using the JokeAPI",
   "icons": [
     {
       "src": "logo192.png",
